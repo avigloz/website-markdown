@@ -13,7 +13,6 @@ a {
     text-decoration: none;
 }
 </style>
-<div align="center">
 Avi Glozman
 ===
 [\[LinkedIn\]](https://www.linkedin.com/in/avi-glozman-975477119/) [\[GitHub\]](https://www.github.com/avigloz/) [\[Instagram\]](https://www.instagram.com/avigloz/)
@@ -28,7 +27,7 @@ This includes, but is not limited to, posts about:
 - projects,
 - opinions on various topics.
 
-Getting start
+Getting started
 ---
 * * *
 Here are some links to some interesting parts of the site.
