@@ -1,25 +1,47 @@
+<style>
+body {
+    background-color: #CEE7FF;
+}
+div {
+    width: 400px;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Times New Roman", Times, serif;
+}
+a {
+    text-decoration: none;
+}
+</style>
+<div align="center">
+Avi Glozman
+===
+[\[LinkedIn\]](https://www.linkedin.com/in/avi-glozman-975477119/) [\[GitHub\]](https://www.github.com/avigloz/) [\[Instagram\]](https://www.instagram.com/avigloz/)
 
-<center>
-#Avi Glozman
+* * *
 
-This website contains a variety of information about myself, *Avi Glozman*.
-This includes posts about:
+This site contains a variety of information about myself, *Avi Glozman*.
+This includes, but is not limited to, posts about:
 
 - biographical information,
 - poetry,
 - projects,
-- opinions on various topics,
+- opinions on various topics.
 
-etc.
+Getting start
+---
+* * *
+Here are some links to some interesting parts of the site.
 
-##Note:
-...
-I decided to change the format of my website to something more readable, and
-easier to navigate. I totally get tbhat CSS and JS are useful for making stuff
-look pretty, but I find it useless considering I'm not a designer whose goal is
-to showcase their skill.
+- [About me](/about)
+- [About this site](/site)
+- [Contact info](/contact)
+- [Projects](/projects)
+- [Poetry](/poetry)
+- [Music I listen to](/music)
+- [Software that I use](/software)
+- [Wikipedia pages by me](/wiki)
 
-The previous iteration of this website was designed by my friend [Owen Cheung] (https://github.com/owenhcheung)
-, who did a great job. This website can be found [here] (https://github.com/avigloz/website/).
-
-</center>
+If you're interested in seeing *everything* (categorized list of pages), see the
+[table of contents](/toc).
+</div>
