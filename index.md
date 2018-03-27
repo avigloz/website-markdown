@@ -5,14 +5,15 @@ body {
 div {
     width: 400px;
     word-wrap: break-word;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: "Times New Roman", Times, serif;
+    margin: auto;
+    font-family: "Trebuchet MS";
+    align: center;
 }
 a {
     text-decoration: none;
 }
 </style>
+<div>
 Avi Glozman
 ===
 [\[LinkedIn\]](https://www.linkedin.com/in/avi-glozman-975477119/) [\[GitHub\]](https://www.github.com/avigloz/) [\[Instagram\]](https://www.instagram.com/avigloz/)
@@ -43,4 +44,4 @@ Here are some links to some interesting parts of the site.
 
 If you're interested in seeing *everything* (categorized list of pages), see the
 [table of contents](/toc).
-</div>
+</center>
