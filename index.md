@@ -47,4 +47,6 @@ Here are some links to some interesting parts of the site:
 
 If you're interested in seeing *everything* (categorized list of pages), see the
 [table of contents](/toc.html).
-</center>
+
+###### Copyright Avi Glozman (C) 2018
+</div>

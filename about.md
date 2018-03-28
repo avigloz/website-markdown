@@ -64,12 +64,14 @@ If you'd like to contact me regarding informal matters, see [this](https://githu
 - [Software I use](/software.html)
 - [My time at Bellevue College](/bc.html)
 - [Wikipedia pages by me](/wiki.html)
-- [Table of contents](/toc..html)
+- [Table of contents](/toc.html)
 
 <a name="external">
 
 ### External links
 * * *
 - [Running Start](https://en.wikipedia.org/wiki/Running_Start) (Wikipedia)
+
+###### Copyright Avi Glozman (C) 2018
 
 </div>
