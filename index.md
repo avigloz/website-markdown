@@ -1,4 +1,8 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <style>
+h1 {
+  font-family: "Times New Roman";
+}
 body {
     background-color: #CEE7FF;
 }
@@ -14,34 +18,33 @@ a {
 }
 </style>
 <div>
-Avi Glozman
-===
+# Avi Glozman
 [\[LinkedIn\]](https://www.linkedin.com/in/avi-glozman-975477119/) [\[GitHub\]](https://www.github.com/avigloz/) [\[Instagram\]](https://www.instagram.com/avigloz/)
 
-* * *
-
 This site contains a variety of information about myself, *Avi Glozman*.
-This includes, but is not limited to, posts about:
+This includes, but is not limited to, posts about
 
 - biographical information,
 - poetry,
 - projects,
 - opinions on various topics.
 
-Getting started
----
-* * *
-Here are some links to some interesting parts of the site.
+**Please note that this website is currently under construction, and that not
+all pages may be functional.**
 
-- [About me](/about)
-- [About this site](/site)
-- [Contact info](/contact)
-- [Projects](/projects)
-- [Poetry](/poetry)
-- [Music I listen to](/music)
-- [Software that I use](/software)
-- [Wikipedia pages by me](/wiki)
+## Getting started
+* * *
+Here are some links to some interesting parts of the site:
+
+- [About me](/about.html)
+- [About this site](/site.html)
+- [Contact info](/about.html#contact)
+- [Projects](/projects.html)
+- [Poetry](/poetry.html)
+- [Music I listen to](/music.html)
+- [Software that I use](/software.html)
+- [Wikipedia pages by me](/wiki.html)
 
 If you're interested in seeing *everything* (categorized list of pages), see the
-[table of contents](/toc).
+[table of contents](/toc.html).
 </center>
