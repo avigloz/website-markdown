@@ -20,10 +20,13 @@ a {
 </style>
 <div>
 # Index (Projects)
-[\[Home\]](/) [\[GitHub\]](https://www.github.com/avigloz/)
+[\[Home\]](/) [\[Table of contents\]](/toc.html) [\[GitHub\]](https://www.github.com/avigloz/)
 
 This is the index for the project-related posts. It's like a table of contents,
 but more specific. Each item has a short summary attached.
+
+**Please note that the majority of the pages listed here are under
+construction, and may not be functional.**
 
 ## Contents
 * * *
