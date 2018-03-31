@@ -1,3 +1,4 @@
+@echo off
 echo "Now building all HTML files..."
 
 pandoc -o html/index.html index.md
