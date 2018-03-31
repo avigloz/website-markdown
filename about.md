@@ -1,3 +1,4 @@
+<title>About me</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <style>
 h1 {

@@ -1,3 +1,4 @@
+<title>Avi Glozman</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <style>
 h1 {
@@ -37,7 +38,7 @@ all pages may be functional.**
 Here are some links to some interesting parts of the site:
 
 - [About me](/about.html)
-- [About this site](/site.html)
+- [About this site](/projects/site.html)
 - [Contact info](/about.html#contact)
 - [Projects](/projects.html)
 - [Poetry](/poetry.html)

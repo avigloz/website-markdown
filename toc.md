@@ -1,3 +1,4 @@
+<title>Table of contents</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <style>
 h1 {
@@ -46,6 +47,7 @@ make searching easier.
 - [About me](/about.html)
 - [Photo of me](/ref-photo.jpg)
 - [Software I use](/software.html)
+- [Music I listen to](/music.html)
 - [Contact](/about.html#contact)
 
 <a name="blog">
