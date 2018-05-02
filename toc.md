@@ -49,6 +49,7 @@ make searching easier.
 - [Software I use](software.html)
 - [Music I listen to](music.html)
 - [Contact](about.html#contact)
+- (Some pages in this category are currently under construction.)
 
 <a name="blog">
 
@@ -56,7 +57,7 @@ make searching easier.
 * * *
 [Blog-like posts index](blog/index.html)
 
-- (Currently no posts exist, so the list is empty.)
+- (There are currently no pages in this category.)
 
 <a name="op">
 
@@ -64,7 +65,7 @@ make searching easier.
 * * *
 [Opinion pieces index](opinion/index.html)
 
-- (Currently no posts exist, so the list is empty.)
+- (There are currently no pages in this category.)
 
 <a name="poetry">
 
@@ -86,7 +87,7 @@ make searching easier.
 - [Linkr](projects/linkr.html)
 - [Phantom](projects/phantom.html)
 - [Rslash](projects/rslash.html)
-- (Pages in this subcategory are currently under construction.)
+- (Some pages in this subcategory are currently under construction.)
 
 ### Team projects
 
@@ -118,7 +119,7 @@ make searching easier.
 * * *
 [Miscellaneous pages index](misc/index.html)
 
-- (Pages in this category are currently under construction.)
+- (There are currently no pages in this category.)
 
 
 ###### Copyright Avi Glozman (C) 2018

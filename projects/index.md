@@ -75,7 +75,7 @@ disappears after being accessed once by anyone.
 
 ### [rslash](rslash.html)
 rslash or "r/" is a Google Chrome extension designed to make browsing to
-subreddits on the social news aggregation platform Reddit.
+subreddits on the social news aggregation platform Reddit faster.
 
 ## Team Projects
 * * *
