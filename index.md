@@ -25,10 +25,10 @@ a {
 This site contains a variety of information about myself, *Avi Glozman*.
 This includes, but is not limited to, posts about
 
-- biographical information,
-- poetry,
-- projects,
-- opinions on various topics.
+- biographical information
+- poetry
+- projects
+- opinions on various topics
 
 **Please note that this website is currently under construction, and that not
 all pages may be functional.**
@@ -38,7 +38,7 @@ all pages may be functional.**
 Here are some links to some interesting parts of the site:
 
 - [About me](about.html)
-- [About this site](/projects/site.html)
+- [About this site](site.html)
 - [Contact info](about.html#contact)
 - [Projects](projects/index.html)
 - [Poetry](poetry/index.html)

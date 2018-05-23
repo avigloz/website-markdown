@@ -7,6 +7,7 @@ pandoc -o html/toc.html toc.md
 pandoc -o html/music.html music.md
 pandoc -o html/software.html software.md
 pandoc -o html/site.html site.md
+pandoc -o html/wiki/index.html wiki/index.md
 
 echo "Done!"
 PAUSE

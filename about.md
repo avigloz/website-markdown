@@ -29,7 +29,7 @@ a {
 - [See also](#seealso)
 - [External links](#external)
 
-*I also have a page [about this site](projects/site.html), which has information about how
+*I also have a page [about this site](site.html), which has information about how
 this site was made.*
 
 <a name="gen">

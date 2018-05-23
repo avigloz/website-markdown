@@ -83,7 +83,7 @@ make searching easier.
 - (Pages in this category are currently under construction.)
 
 ### Personal projects
-- [About this site](projects/site.html)
+- [About this site](site.html)
 - [Linkr](projects/linkr.html)
 - [Phantom](projects/phantom.html)
 - [Rslash](projects/rslash.html)
@@ -101,8 +101,6 @@ make searching easier.
 ## Wikipedia-related
 * * *
 [Wikipedia-related pages index](wiki/index.html)
-
-- (Pages in this category are currently under construction.)
 
 ### Direct links to articles I've written
 

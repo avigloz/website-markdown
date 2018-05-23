@@ -30,7 +30,7 @@ a {
 - [See also](#seealso)
 - [External links](#external)
 
-*I also have a page [about me](index.html), which has information about me.*
+*I also have a page [about me](about.html), which has information about me.*
 
 <a name="tech">
 
