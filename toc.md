@@ -117,7 +117,7 @@ make searching easier.
 * * *
 [Miscellaneous pages index](misc/index.html)
 
-- (There are currently no pages in this category.)
+- [Tutoring](misc/tutoring.html)
 
 
 ###### Copyright Avi Glozman (C) 2018

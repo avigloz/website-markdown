@@ -65,7 +65,7 @@ If you'd like to contact me regarding informal matters, see [this](https://githu
 ## See also
 * * *
 - [Software I use](software.html)
-- [My time at Bellevue College](bc.html)
+- [Tutoring](misc/tutoring.html)
 - [Wikipedia pages by me](wiki.html)
 - [Table of contents](toc.html)
 

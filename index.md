@@ -37,9 +37,13 @@ all pages may be functional.**
 * * *
 Here are some links to some interesting parts of the site:
 
+### Important stuff
 - [About me](about.html)
-- [About this site](site.html)
 - [Contact info](about.html#contact)
+- [Tutoring](misc/tutoring.html)
+
+### Other (also) important stuff
+- [About this site](site.html)
 - [Projects](projects/index.html)
 - [Poetry](poetry/index.html)
 - [Music I listen to](music.html)
