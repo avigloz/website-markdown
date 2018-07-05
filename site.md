@@ -79,13 +79,13 @@ At some point in the future I may host it on a subdomain.
 
 <a name="seealso">
 
-##See also
+## See also
 * * *
 - [Software I use](software.html)
 
 <a name="external">
 
-##External links
+## External links
 * * *
 - [Let's Encrypt](https://letsencrypt.org/) (their site)
 - [Issa Rice](https://issarice.com) (his personal site)

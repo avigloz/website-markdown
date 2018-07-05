@@ -89,6 +89,7 @@ categorized it based on paradigms, e.g "programming," "media," etc.
 ## External Links
 * * *
 There will be *a lot* of links here...
+
 ### Programming-related software
 - [Visual Studio Community](https://www.visualstudio.com/vs/community/)
 - [Atom](https://atom.io/)
