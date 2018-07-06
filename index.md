@@ -27,9 +27,9 @@ This site contains a variety of information about myself, *Avi Glozman*.
 This includes, but is not limited to, posts about
 
 - biographical information
-- poetry
 - projects
-- opinions on various topics
+- business related information
+- thoughts on various topics
 
 **Please note that this website is currently under construction, and that not
 all pages may be functional.**
@@ -41,6 +41,7 @@ Here are some links to some interesting parts of the site:
 ### Important stuff
 - [About me](about.html)
 - [Contact info](about.html#contact)
+- [Resume](static/resume.pdf)
 - [Tutoring](misc/tutoring.html)
 
 ### Other (also) important stuff

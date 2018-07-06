@@ -1,4 +1,4 @@
-<title>Software I use</title>
+<title>Software</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -36,10 +36,13 @@ categorized it based on paradigms, e.g "programming," "media," etc.
 - [See also](#seealso)
 - [External links](#external)
 
+## Software
+* * *
+
 <a name="prgrm">
 
-## Programming-related software
-* * *
+### Programming-related software
+
 - [Visual Studio Community](#external) (for C#, and R. Azure integration is nice too)
 - [Atom](#external)
 - [Pandoc](#external) (for converting Markdown to HTML)
@@ -48,8 +51,8 @@ categorized it based on paradigms, e.g "programming," "media," etc.
 
 <a name="media">
 
-## Media software
-* * *
+### Media software
+
 - [VLC Media Player](#external)
 - [Spotify](#external) (Premium is highly recommended)
 - [puush](#external)
@@ -57,16 +60,16 @@ categorized it based on paradigms, e.g "programming," "media," etc.
 
 <a name="web">
 
-## Web browsers
-* * *
+### Web browsers
+
 (I've also included extensions that I use)
 
 - [Firefox](#external) (with uBlock, Privacy Badger, NoScript)
 
 <a name="msg">
 
-## Messaging/talking software
-* * *
+### Messaging/talking software
+
 - [Discord](#external)
 - [Skype](#external)
 - [Slack](#external) (work-related uses only)
@@ -74,8 +77,8 @@ categorized it based on paradigms, e.g "programming," "media," etc.
 
 <a name="misc">
 
-## Miscellaneous software
-* * *
+### Miscellaneous software
+
 - [Microsoft Windows](#external) (10 x64 Pro)
 - [Microsoft Office](#external) (Word, Excel, Powerpoint)
 - [Cyberduck](#external) (SFTP client)

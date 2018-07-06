@@ -52,30 +52,6 @@ make searching easier.
 - [Contact](about.html#contact)
 - (Some pages in this category are currently under construction.)
 
-<a name="blog">
-
-## Blog-like posts
-* * *
-[Blog-like posts index](blog/index.html)
-
-- (There are currently no pages in this category.)
-
-<a name="op">
-
-## Opinion pieces
-* * *
-[Opinion pieces index](opinion/index.html)
-
-- (There are currently no pages in this category.)
-
-<a name="poetry">
-
-## Poetry-related posts
-* * *
-[Poetry-related posts index](poetry/index.html)
-
-- (Pages in this category are currently under construction.)
-
 <a name="projects">
 
 ## Project-related posts
@@ -96,6 +72,22 @@ make searching easier.
 - [Sail](projects/sail.html)
 - [Tapstreak](projects/tapstreak.html)
 - (Pages in this subcategory are currently under construction.)
+
+<a name="blog">
+
+## Blog-like posts
+* * *
+[Blog-like posts index](blog/index.html)
+
+- (There are currently no pages in this category.)
+
+<a name="poetry">
+
+## Poetry-related posts
+* * *
+[Poetry-related posts index](poetry/index.html)
+
+- (Pages in this category are currently under construction.)
 
 <a name="wiki">
 

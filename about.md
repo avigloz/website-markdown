@@ -37,18 +37,21 @@ this site was made.*
 
 ## General introduction
 * * *
-As you may already know, my name is *Avi Glozman*. I'm currently a student at
-Bellevue College in Bellevue, WA as part of the Running Start program.
-In fall 2018, I will join the class of 2022 at the University of Pittsburgh as
-a CS major.
+As you may already know, my name is *Avi Glozman*. I recently graduated high
+school in June of 2018. In fall 2018, I will join the class of 2021 at the
+University of Pittsburgh as a CS major. I participated in the Running Start
+program during high school, from fall 2016 to spring 2018.
 
 Since 2012-2013, I've been working on various personal [projects](projects/index.html) and otherwise
 developing my knowledge of computer science and technologies. Currently, I'm
 working on RESTful APIs using Node.js and Express, Docker, SQL/NoSQL, etc.
 
+My focus is currently to finish personal projects that I've already started, and
+to start making APIs that provide real-time data visualization.
+
 ### Photo
 
-Here's a [photo](ref-photo.jpg) of me, so you can recognize me if we meet in-person.
+Here's a [photo](static/ref-photo.jpg) of me, so you can recognize me if we meet in-person.
 
 <a name="contact">
 
@@ -59,7 +62,8 @@ My preferred method of contact is via email, at [contact@avigloz.net](mailto:con
 If contacting me regarding business-related matters, you may also
 contact me on LinkedIn if you'd like.
 
-If you'd like to contact me regarding informal matters, see [this](https://github.com/avigloz/contactinfo).
+If you'd like to contact me regarding informal matters, email me and we'll
+figure something out.
 
 <a name="seealso">
 
