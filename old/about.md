@@ -38,16 +38,21 @@ this site was made.*
 ## General introduction
 * * *
 As you may already know, my name is *Avi Glozman*. I recently graduated high
-school in June of 2018. In fall 2018, I will join the class of 2021 at the
-University of Pittsburgh as a CS major. I participated in the Running Start
-program during high school, from fall 2016 to spring 2018.
+school in June of 2018. As of Fall 2018, I am part of the Class of 2021 at
+the University of Pittsburgh.
+
+I participated in the Running Start program during high school,
+from fall 2016 to spring 2018.
 
 Since 2012-2013, I've been working on various personal [projects](projects/index.html) and otherwise
 developing my knowledge of computer science and technologies. Currently, I'm
-working on RESTful APIs using Node.js and Express, Docker, SQL/NoSQL, etc.
+working on developing my knowledge of data science, and focusing on
+learning the Julia programming language as a tool for future learning and
+development.
 
-My focus is currently to finish personal projects that I've already started, and
-to start making APIs that provide real-time data visualization.
+In the past, my projects have focused exclusively on writing RESTful JSON APIs
+for various purposes, and I hope to be able to incorporate this knowledge and
+experience into my future work.
 
 ### Photo
 
@@ -79,6 +84,7 @@ figure something out.
 ## External links
 * * *
 - [Running Start](https://en.wikipedia.org/wiki/Running_Start) (Wikipedia)
+- [University of Pittsburgh](https://en.wikipedia.org/wiki/University_Of_Pittsburgh) (Wikipedia)
 
 ###### Copyright Avi Glozman (C) 2018
 
