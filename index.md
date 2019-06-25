@@ -67,7 +67,7 @@ Here's my [site](https://pitt.edu/~abg41)* on the University of Pittsburgh domai
 <div>
 ## About me:
 
-### Profile 
+### Profile
 
 <details>
   <summary>My "profile"</summary>
@@ -79,7 +79,7 @@ Here's my [site](https://pitt.edu/~abg41)* on the University of Pittsburgh domai
   [Profile](about/profile.html)
 </details>
 
-### Contact 
+### Contact
 <details>
   <summary>Contact information</summary>
   If you'd like to contact me, I prefer email.
@@ -88,7 +88,7 @@ Here's my [site](https://pitt.edu/~abg41)* on the University of Pittsburgh domai
   **avi[AT]avigloz[DOT]net**
 </details>
 
-### Resume 
+### Resume
 <details>
   <summary>My resume</summary>
   Here's an up-to-date copy of my resume:
@@ -101,6 +101,7 @@ Here's my [site](https://pitt.edu/~abg41)* on the University of Pittsburgh domai
 <div>
 ## Posts:
  - ***["A Peaceful Dream"](posts/peacefuldream.html)*** - 12/08/18
+ - ***["Vastest Ocean"](posts/vastestocean.html)*** - 03/25/19
 </div>
 
 <div>
@@ -127,7 +128,7 @@ Additionally, I give **University of Pittsburgh** students *only* a flat discoun
   At Pitt, I am comfortable with material up to **CS 0445** (as of right now.)
 
   ### Rates:
-  
+
   - **$30/hr** *(non-Pitt students)*
   - **$20/hr** *(Pitt students)*
 </details>
@@ -141,7 +142,7 @@ Additionally, I give **University of Pittsburgh** students *only* a flat discoun
   I can provide examples upon request.
 
   ### Rates:
-  
+
   - **$25/hr** *(non-Pitt students)*
   - **$15/hr** *(Pitt students)*
 </details>
