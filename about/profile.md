@@ -16,8 +16,13 @@ pagetitle: Profile
   h1, h2, h3 {
     font-family: 'Anonymous Pro', monospace;
   }
-  p, li {
+  p, li, pre {
     font-family: 'Overpass Mono', monospace;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+    background-color: #e6e6fa
   }
   div {
     background-color: #e6e6fa;
@@ -42,16 +47,21 @@ pagetitle: Profile
 
 # Profile
 
-[Home](../index.html)
+[Home](../index.html) [About me](about.html)
 
 ## Background
-This page was inspired by [gwern](https://www.gwern.net/Links#profile)'s, [Issa Rice](https://issarice.com/profile)'s, and [Vipul Naik](https://vipulnaik.com/profile/)'s profile pages.
+
+<pre>
+This page was inspired by <a href='https://www.gwern.net/Links#profile'>gwern</a>'s, <a href='https://issarice.com/profile'>Issa Rice</a>'s, and <a href='https://vipulnaik.com/profile/'>Vipul Naik</a>'s profile pages.
 
 Basically, below is a list of test results that are related to various personality traits.
 Each result will have a link to the test in case you would like to take them as well.
 
-Whether I agree with or match to the results of these tests is not discussed here, only the results themselves are shown.
-I may make some notes as to what I thought of a test, but not much else. The rest is up to interpretation.
+Whether I agree with or match to the results of these tests is not discussed or verified here, only the results 
+themselves are shown. I may make some notes as to what I thought of a test, but not much else. 
+The rest is up to interpretation.
+</pre>
+
 
 <div class="sidebyside">
 ## Big Five
@@ -82,6 +92,29 @@ Taken [here](http://www.outofservice.com/bigfive) on *1/20/2019*
 </details>
 ### Notes:
 Taken [here](https://openpsychometrics.org/tests/FSIQ/) on *3/11/2019*
+</div>
+
+<div class="sidebyside">
+## Social Intelligence Quotient (SIQ)
+<pre>
+<h3>"Test how well you can read emotions of 
+others just by looking at their eyes."</h3></pre>
+<details>
+  <summary>Results</summary>
+    <img src="images/SIQ.png">
+</details>
+### Notes:
+Taken [here](http://socialintelligence.labinthewild.org/mite/) on *3/11/2019*
+</div>
+
+<div class="sidebyside">
+## Empathy Quotient (EQ)
+<details>
+  <summary>Results</summary>
+  <img src="images/EQ.png">
+</details>
+### Notes:
+Taken [here](https://www.aspietests.org/eq/) on *3/11/2019*
 </div>
 
 <div class="sidebyside">
@@ -138,27 +171,6 @@ Taken [here](http://easydamus.com/alignmenttest.html) on *3/11/2019*
 </details>
 ### Notes:
 Taken [here](https://www.aspietests.org/sq/) on *3/11/2019*
-</div>
-
-<div class="sidebyside">
-## Empathy Quotient (EQ)
-<details>
-  <summary>Results</summary>
-  <img src="images/EQ.png">
-</details>
-### Notes:
-Taken [here](https://www.aspietests.org/eq/) on *3/11/2019*
-</div>
-
-<div class="sidebyside">
-## Social Intelligence Quotient (SIQ)
-### "Test how well you can read emotions of others just by looking at their eyes."
-<details>
-  <summary>Results</summary>
-    <img src="images/SIQ.png">
-</details>
-### Notes:
-Taken [here](http://socialintelligence.labinthewild.org/mite/) on *3/11/2019*
 </div>
 
 
