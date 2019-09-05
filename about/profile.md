@@ -19,6 +19,11 @@ pagetitle: Profile
   p, li, pre {
     font-family: 'Overpass Mono', monospace;
   }
+  .blueback a {
+    text-decoration: none;
+    color: black;
+    background-color: #fffacd
+  }
   a {
     text-decoration: none;
     color: black;
@@ -63,7 +68,7 @@ The rest is up to interpretation.
 </pre>
 
 
-<div class="sidebyside">
+<div class="blueback">
 ## Big Five
 <details>
   <summary>Results</summary>
@@ -84,17 +89,23 @@ This test follows the OCEAN model.
 Taken [here](http://www.outofservice.com/bigfive) on *1/20/2019*
 </div>
 
-<div class="sidebyside">
+<div class="blueback">
 ## Intelligence Quotient (IQ)
 <details>
   <summary>Results</summary>
     <img src="images/openpsychIQ.png">
 </details>
 ### Notes:
+<pre>
+Based on some discussion with peers, it appears that this particular
+test is relatively conservative. Hence, it should be noted that the score given
+here is within <i>1-2 SD</i> of reality.
+</pre>
+
 Taken [here](https://openpsychometrics.org/tests/FSIQ/) on *3/11/2019*
 </div>
 
-<div class="sidebyside">
+<div class="blueback">
 ## Social Intelligence Quotient (SIQ)
 <pre>
 <h3>"Test how well you can read emotions of 
@@ -107,7 +118,7 @@ others just by looking at their eyes."</h3></pre>
 Taken [here](http://socialintelligence.labinthewild.org/mite/) on *3/11/2019*
 </div>
 
-<div class="sidebyside">
+<div class="blueback">
 ## Empathy Quotient (EQ)
 <details>
   <summary>Results</summary>
@@ -117,7 +128,7 @@ Taken [here](http://socialintelligence.labinthewild.org/mite/) on *3/11/2019*
 Taken [here](https://www.aspietests.org/eq/) on *3/11/2019*
 </div>
 
-<div class="sidebyside">
+<div class="blueback">
 ## D&D Alignment
 <details>
   <summary>Results</summary>
@@ -163,7 +174,7 @@ Evil ---- X (1)
 Taken [here](http://easydamus.com/alignmenttest.html) on *3/11/2019*
 </div>
 
-<div class="sidebyside">
+<div class="blueback">
 ## Systemizing Quotient (SQ)
 <details>
   <summary>Results</summary>
