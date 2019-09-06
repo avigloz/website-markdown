@@ -43,9 +43,9 @@ I'm a **CS major**, at the [University of Pittsburgh](https://en.wikipedia.org/w
 
 <hr align="left" width="50%">
 
-### [About](about/about.html)
+### [About](info/about.html)
 
-### [Posts](posts/posts.html)
+### [Posts](posts/index.html)
 
 ### [GitHub](https://github.com/avigloz)
 

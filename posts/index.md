@@ -46,5 +46,5 @@ also appear here every so often.
 </pre>
 
 ## Short stories
- - ***["A Peaceful Dream"](posts/peacefuldream.html)*** - 12/08/18
- - ***["Vastest Ocean"](posts/vastestocean.html)*** - 03/25/19
+ - ***["A Peaceful Dream"](peacefuldream.html)*** - 12/08/18
+ - ***["Vastest Ocean"](vastestocean.html)*** - 03/25/19
