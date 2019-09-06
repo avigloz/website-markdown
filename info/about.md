@@ -62,18 +62,4 @@ Resume: [PDF](../docs/ResumeAug2019.pdf)
 
   I have many, many other projects through [my GitHub](https://github.com/avigloz).
 
-## Tutoring
-
-<pre>
-I offer tutoring services to families and fellow students.
-I do tutoring *online* only, over Skype.
-
-If you'd like to inquire about tutoring or hourly rates, please reach out to me via email.</pre>
-
-### Subjects I tutor
-
-- *English/Writing*
-- *Computer Science*
-- *Math*
-
-Unless you are a very close friend or we have previously agreed to study together, I will not teach for free. Sorry.
+## [Tutoring](../tutoring/index.html)
