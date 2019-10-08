@@ -52,7 +52,7 @@ If you would like to look at my accomplishments, or would like to contact
 me regarding business-related matters, my resume can be found below.
 </pre>
 
-Resume: [PDF](../docs/ResumeAug2019.pdf)
+Resume: [PDF](../docs/avi_resume09_19.pdf)
 
 ## Projects
 
