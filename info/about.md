@@ -52,14 +52,16 @@ If you would like to look at my accomplishments, or would like to contact
 me regarding business-related matters, my resume can be found below.
 </pre>
 
-Resume: [PDF](../docs/avi_resume09_19.pdf)
+Resume: [PDF](../docs/avi_resume01_20.pdf)
 
 ## Projects
 
  These projects are projects I have worked on or am working on during my time in university.
 
- - [rentnexus](https://rentnexus.net): A site for students who rent off-campus to leave reviews about their property, landlord, neighbors, etc.
+ - [rentnexus](https://rentnexus.net): A service for property managers to optimize their work, using a centralized system of resources and by creating a medium between property managers and their tenants.
 
-  I have many, many other projects through [my GitHub](https://github.com/avigloz).
+ - [Synesthesia](https://github.com/avigloz/synesthesia): A program that creates interesting visual representations of audio files, written entirely in C++.
+
+  I have other projects through [my GitHub](https://github.com/avigloz).
 
 ## [Tutoring](../tutoring/index.html)
