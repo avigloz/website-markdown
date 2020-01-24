@@ -59,7 +59,6 @@ Resume: [PDF](../docs/avi_resume01_20.pdf)
  These projects are projects I have worked on or am working on during my time in university.
 
  - [rentnexus](https://rentnexus.net): A service for property managers to optimize their work, using a centralized system of resources and by creating a medium between property managers and their tenants.
-
  - [Synesthesia](https://github.com/avigloz/synesthesia): A program that creates interesting visual representations of audio files, written entirely in C++.
 
   I have other projects through [my GitHub](https://github.com/avigloz).
