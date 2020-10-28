@@ -3,18 +3,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
 <link href="../stylesheet.css" rel="stylesheet"/>
-<link rel="icon" type="image/png" href="../favicon.png"/>
+<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
 
 # About me
 
-<blockquote class="quote">*“People said I should accept the world. Bullshit! I don't accept the world.”* <br> **Richard Stallman**</blockquote>
+<blockquote class="quote">
+    *“People said I should accept the world. Bullshit! I don't accept the world.”* <br> **Richard Stallman**
+</blockquote>
 
 [Home](../index.html)
 
 As you may already know, my name is Avi! Here I am:
 
-<img src="avi_photo_summer2020.png" alt="A photograph of Avi Glozman" height="375px" width="375px"/>
-
+<img src="../images/avi_photo_summer2020.png" alt="A photograph of Avi Glozman" height="375px" width="375px"/>
 
 Here's some tid-bits about me:
 

@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
 <link href="../stylesheet.css" rel="stylesheet"/>
-<link rel="icon" type="image/png" href="../favicon.png"/>
+<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
 
 # Posts
 
@@ -13,13 +13,10 @@
 
 [Home](../index.html)
 
-<pre>
 Here are some "posts" I've written. They are not written for the express
 purpose of being published here, but I post them here anyway.
 
-I mostly write short stories, however poetry or long-form papers/essays may
-also appear here every so often.
-</pre>
+I mostly write short stories, however poetry or long-form papers/essays may also appear here every so often.
 
 ## Short stories
  - ***["A Peaceful Dream"](peacefuldream.html)*** - 12/08/18
