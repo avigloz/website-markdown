@@ -1,39 +1,15 @@
----
-pagetitle: Posts
----
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Anonymous+Pro|Overpass+Mono" rel="stylesheet">
-<style>
-  body {
-    padding: 20px;
-    font-size: 14px;
-  }
-  h1, h2, h3 {
-    padding: 5px;
-    font-family: 'Anonymous Pro', monospace;
-  }
-  p, li, pre {
-    padding: 2px;
-    font-family: 'Overpass Mono', monospace;
-  }
-  a {
-    text-decoration: none;
-    color: black;
-    background-color: #e6e6fa
-  }
-  div {
-    background-color: #e6e6fa;
-    border-radius: 2px;
-    border-style: groove;
-    border-width: 2px;
-    height: auto;
-    width: auto;
-    float: left;
-  }
-</style>
+<title>Posts</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
+<link href="../stylesheet.css" rel="stylesheet"/>
+<link rel="icon" type="image/png" href="../favicon.png"/>
 
 # Posts
+
+<blockquote class="quote">
+    *"We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world."* <br> **Siddhārtha Gautama**
+</blockquote>
 
 [Home](../index.html)
 

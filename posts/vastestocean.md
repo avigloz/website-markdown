@@ -1,59 +1,20 @@
----
-pagetitle: Vastest Ocean
----
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Anonymous+Pro|Overpass+Mono" rel="stylesheet">
-<style>
-  body {
-    padding: 20px;
-    font-size: 14px;
-  }
-  h1, h2, h3 {
-    font-family: 'Anonymous Pro', monospace;
-  }
-  p, li {
-    font-family: 'Overpass Mono', monospace;
-  }
-  div {
-    background-color: #e6e6fa;
-    border-radius: 2px;
-    border-style: groove;
-    width: 800px;
-    border-width: 2px;
-  }
-  blockquote {
-    border-width: 1px;
-    border-left: 0px;
-    border-right: 0px;
-    border-style: solid;
-    border-radius: 2px;
-    padding-left: 6px;
-    background-color: #f5f5f5;
-  }
-</style>
+<title>Vastest Ocean</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
+<link href="../stylesheet.css" rel="stylesheet"/>
+<link rel="icon" type="image/png" href="../favicon.png"/>
 
 # "Vastest Ocean"
 
-<blockquote style="
-font-family: 'Overpass Mono', monospace;
-font-size: 14px;border-width: 1px;
-    border-style: solid;
-    border-radius: 2px;
-    border-left: 0px;
-    border-right: 0px;
-    width: 500px;
-    padding: 20px;
-    background-color: #fffacd;
-    ">
-    *"I am a cage, in search of a bird."* - **Franz Kafka**
+<blockquote class="quote">
+    *"I am a cage, in search of a bird."* <br> **Franz Kafka**
 </blockquote>
-[Home](../index.html)
+[Home](../index.html) [Posts](./index.html)
 
 
 *Edited: 06/14/2019*
 
-<div>
 >    A man sat on the bench, the sun setting before his eyes. He sat there,
 until darkness surrounded him. I thought, at first, he would never stand up.
 He held the same posture, and hadn’t moved a single muscle.
@@ -191,5 +152,4 @@ I didn’t want to leave this place, because I knew that I would never see this
 man again. But he was nothing, he was just a sign on this road. He just got me
 to where I needed to go.
 
-</div>
 Copyright Avi Glozman, April 2019

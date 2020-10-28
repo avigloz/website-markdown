@@ -1,66 +1,56 @@
----
-pagetitle: About
----
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Anonymous+Pro|Overpass+Mono" rel="stylesheet">
-<style>
-  body {
-    padding: 20px;
-    font-size: 14px;
-  }
-  h1, h2, h3 {
-    padding: 2px;
-    font-family: 'Anonymous Pro', monospace;
-  }
-  p, li, pre {
-    padding: 2px;
-    font-family: 'Overpass Mono', monospace
-  }
-  a {
-    text-decoration: none;
-    color: black;
-    background-color: #e6e6fa
-  }
-</style>
+<title> About Avi </title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
+<link href="../stylesheet.css" rel="stylesheet"/>
+<link rel="icon" type="image/png" href="../favicon.png"/>
 
 # About me
 
+<blockquote class="quote">*“People said I should accept the world. Bullshit! I don't accept the world.”* <br> **Richard Stallman**</blockquote>
+
 [Home](../index.html)
 
-## Profile
+As you may already know, my name is Avi! Here I am:
 
-<pre>
-Contains a "profile" of myself, which essentially boils down to being an
-interesting set of data. I cannot speak to its accuracy, but it is based on tests taken by me.
+<img src="avi_photo_summer2020.png" alt="A photograph of Avi Glozman" height="375px" width="375px"/>
 
-Some people might find this interesting.
-</pre>
 
-[Profile](profile.html)
+Here's some tid-bits about me:
 
-## Contact
+- I will be graduating from the University of Pittsburgh in December 2020 (Bachelor of Science, Computer Science), 2.33 years after graduating from high school.
+- I am an immigrant, originally from Israel.
+- I speak English and Russian fluently, and have varying mastery of other languages.
+- I enjoy writing, and regularly write poetry or short stories (typically unshared, though there are some [here](../posts/index.html)).
+- I'm passionate about learning, and spend a couple hours per day either reading/contributing to Wikipedia, or consuming other well-sourced informational content.
 
-I can be contacted via any information found on my resume.
+## Goals and plans
 
-Generally though, I prefer **avi[AT]avigloz[DOT]net**
+Currently, **I'm looking for a full-time software engineering role to start in Q1 2021**. However, due to the global pandemic of COVID-19, my priorities are flexible. 
 
-## Resume
+Upon graduating, and relocating to the NYC area, I plan on pursuing the following goals:
 
-<pre>
-If you would like to look at my accomplishments, or would like to contact
-me regarding business-related matters, my resume can be found below.
-</pre>
-
-Resume: [PDF](../docs/avi_resume01_20.pdf)
+1. Work towards completing, and eventually complete a working MVP of **rentnexus** (see below),
+2. Learn about business, and establish a local non-profit for laptop re-use and repurposing.
+	- Newer versions of Windows are too much for older (or lower-spec) machines. Linux is a great way to bring these laptops back to life, and also introduce people to *free* (as in freedom, but also cost) alternatives to proprietary, bloated and slow ways to use their computers.
+	- I'd like to empower people who do not have the resources to use on laptops for work or school, by offering a free laptop for anyone who needs it.
+3. Begin paying off my student loans, which I hope to fully pay off by 2024 (at the latest).
 
 ## Projects
 
- These projects are projects I have worked on or am working on during my time in university.
+These projects are projects I have worked on or am working on during my time in university.
 
- - [rentnexus](https://rentnexus.net): A service for property managers to optimize their work, using a centralized system of resources and by creating a medium between property managers and their tenants.
- - [Synesthesia](https://github.com/avigloz/synesthesia): A program that creates interesting visual representations of audio files, written entirely in C++.
+- [rentnexus](https://rentnexus.net): A student-sourced subletting and renting listings platform for use by universities.
+- [Synesthesia](https://github.com/avigloz/synesthesia): A program that creates interesting visual representations of audio files, written entirely in C++.
 
-  I have other projects through [my GitHub](https://github.com/avigloz).
+I have other projects through [my GitHub](https://github.com/avigloz).
 
-## [Tutoring](../tutoring/index.html)
+## Contact
+
+Here's my email address:
+*avi [/\\t] avigloz [d0t] net*
+
+**Do:** reach out for anything personal or business-related, but <br>
+**don't:** try to sell me anything (at all).
+
+If you're interesting in **tutoring services**, look [here](../tutoring/index.html).
