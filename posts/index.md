@@ -19,5 +19,8 @@ purpose of being published here, but I post them here anyway.
 I mostly write short stories, however poetry or long-form papers/essays may also appear here every so often.
 
 ## Short stories
+
+<blockquote>
  - ***["A Peaceful Dream"](peacefuldream.html)*** - 12/08/18
  - ***["Vastest Ocean"](vastestocean.html)*** - 03/25/19
+</blockquote>

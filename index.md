@@ -9,15 +9,15 @@
 
 <blockquote class="quote">*“Except our own thoughts, there is nothing absolutely in our power.”* <br> **René Descartes**</blockquote>
 
-**Welcome.** This is my personal site, where you can find various information about me.
+**Welcome.** This is my personal site, where you can find various information about me and my work.
 
-I'm a **Computer Science major**, at the [University of Pittsburgh](https://en.wikipedia.org/wiki/University_of_Pittsburgh), graduating in December of 2020.
+I'm a <abbr title="I write code for fun, and for a living">software engineer</abbr>, <abbr title="I teach various subjects! See my Tutoring page for more info">private tutor</abbr>, and <abbr title="I sometimes write poetry and short stories">hobbyist writer</abbr>.
 
-<hr align="left" width="50%">
+<hr align="left" width="35%">
 
 ### [About](info/about.html)
 
-### [Résumé](docs/avi_resume10_20.pdf)
+### [Résumé](docs/avi_resume12_20.pdf)
 
 ### [GitHub](https://github.com/avigloz)
 

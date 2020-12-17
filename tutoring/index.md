@@ -11,8 +11,8 @@
 [About me](../info/about.html)
 [Posts](../posts/index.html)
 
-I offer tutoring services to families and fellow students in any North American timezone.
-I do tutoring <i>online</i> only, over any preferred (and mainstream) video-chat service.
+I offer tutoring services to families and individual students in any North American timezone.
+I do tutoring <i>online</i> only, over any preferred (and mainstream) video-chat service. After the pandemic passes, I will resume in-person tutoring in the NYC/JC area.
 
 If you'd like to inquire about tutoring or have questions about rate discounts, please reach out to me via email.
 
