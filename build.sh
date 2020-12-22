@@ -1,19 +1,27 @@
-echo Building ./index.html...
+GR = '\033[1;32'
+
+echo -n "Building ./index.html..."
 pandoc ./index.md -o ./index.html
+echo -e " {GR}done!"
 
-echo Building ./tutoring/index.html...
+echo -n "Building ./tutoring/index.html..."
 pandoc ./tutoring/index.md -o ./tutoring/index.html
+echo -e " {GR}done!"
 
-echo Building ./info/about.html...
-pandoc ./info/about.md -o ./tutoring/about.html
+echo -n "Building ./info/about.html..."
+pandoc ./info/about.md -o ./info/about.html
+echo -e " {GR}done!"
 
-echo Building ./posts/index.html...
+echo -n "Building ./posts/index.html..."
 pandoc ./posts/index.md -o ./posts/index.html
+echo -e " {GR}done!"
 
-echo Building ./posts/peacefuldream.html...
+echo -n "Building ./posts/peacefuldream.html..."
 pandoc ./posts/peacefuldream.md -o ./posts/peacefuldream.html
+echo -e " {GR}done!"
 
-echo Building ./posts/vastestocean.html...
+echo -n "Building ./posts/vastestocean.html..."
 pandoc ./posts/vastestocean.md -o ./posts/vastestocean.html
+echo -e " {GR}done!"
 
 echo Done\!
