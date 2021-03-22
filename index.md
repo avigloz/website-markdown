@@ -17,7 +17,7 @@ I'm a <abbr title="I write code for fun, and for a living">software engineer</ab
 
 ### [About](info/about.html)
 
-### [Résumé](docs/avi_resume12_20.pdf)
+### [Résumé](docs/avi_resume03_21.pdf)
 
 ### [GitHub](https://github.com/avigloz)
 
