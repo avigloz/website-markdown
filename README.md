@@ -15,4 +15,6 @@ Website entirely written using Markdown, inline-HTML, and basic CSS styling. Con
 
 The *content* of this site (text/writing, images - basically anything that isn't purely HTML or CSS or Markdown related) is copyrighted with **all rights reserved** (though I'm guessing you don't intend to sell/plagiarize images of me or my work, anyway).
 
-The underlying formatting (the structure of the HTML and all of the CSS) is free to re-use/distribute under the **MIT license.**
+The underlying structure/formatting (the HTML and all of the CSS) is free to re-use/distribute under the **MIT license.**
+
+Fonts are not physically included, and are used for free from Google Fonts.
