@@ -5,6 +5,7 @@ Website entirely written using Markdown, inline-HTML, and basic CSS styling. Con
 ### How to build/deploy a site based on this one
 - `pandoc`, for file conversion
 - `Nginx` (_optional_; it's what I use), for hosting your own site, should you choose to use this one as a template
+- A machine to host it on; I use a VM on Azure for ~$4 a month.
 - Basic knowledge of Markdown, HTML, and CSS
 
 ### Building
