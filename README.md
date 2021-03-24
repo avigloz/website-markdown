@@ -9,7 +9,7 @@ Website entirely written using Markdown, inline-HTML, and basic CSS styling. Con
 
 ### Building
 
-`sh build.sh` will build HTML files from every Markdown file (if I could do it recursively in a line or two, I would).
+`sh build.sh` will build HTML files from every Markdown file (if I could do it recursively in a line or two, I would). Assuming `pandoc` is in your PATH, this script should also work on Windows (as a `.bat` file).
 
 ### Attribution and Copyright
 
