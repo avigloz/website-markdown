@@ -11,7 +11,7 @@
     *"Who looks outside, dreams; who looks inside, awakes."* <br> **Carl Jung**
 </blockquote>
 
-[Home](../index.html) [Posts](./index.html)
+[Home](../) [Posts](./)
 
 *Edited: 12/14/2018*
 

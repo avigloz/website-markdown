@@ -11,7 +11,7 @@
     *"We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world."* <br> **Siddhārtha Gautama**
 </blockquote>
 
-[Home](../index.html)
+[Home](../)
 
 Here are some "posts" I've written. They are not written for the express
 purpose of being published here, but I post them here anyway.
@@ -24,3 +24,12 @@ I mostly write short stories, however poetry or long-form papers/essays may also
  - ***["A Peaceful Dream"](peacefuldream.html)*** - 12/08/18
  - ***["Vastest Ocean"](vastestocean.html)*** - 03/25/19
 </blockquote>
+
+## Poetry
+
+(nothing here yet)
+
+## Interesting thoughts/ideas
+
+(no politics or edgy opinions, I promise)\
+(nothing here yet)

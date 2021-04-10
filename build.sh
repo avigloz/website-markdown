@@ -25,4 +25,4 @@ echo -n "Building ./posts/vastestocean.html..."
 pandoc ./posts/vastestocean.md -o ./posts/vastestocean.html
 echo -e "${GR}done!${DE}"
 
-echo -e "\e[33mDone!"
+echo -e "\e[33mDone!${DE}"

@@ -11,7 +11,7 @@
     *"I am a cage, in search of a bird."* <br> **Franz Kafka**
 </blockquote>
 
-[Home](../index.html) [Posts](./index.html)
+[Home](../) [Posts](./)
 
 *Edited: 06/14/2019*
 
