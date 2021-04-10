@@ -24,3 +24,5 @@ I'm a <abbr title="I write code for fun, and for a living">software engineer</ab
 ### [Posts](posts/)
 
 ### [Tutoring](tutoring/)
+
+<abbr style="position: absolute; bottom: 15;" title="For licenses and attribution, see https://git.io/JOJv3">(C) Avi Glozman, 2021</abbr>
