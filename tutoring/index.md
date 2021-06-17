@@ -60,5 +60,5 @@ Please include an appropriate subject line to ensure I see your message (such as
 - Any cancellations within 24 hours of a lesson forfeit 25% of the lesson fee, except in serious circumstances. Please take care to cancel as soon as possible, as that will ensure you get your money back.
 - No-notice absenteeism (more than 20 minutes late or no-show) forfeits 100% of the lesson fee. Tutoring will stop after the second instance, and remaining lessons in a package will be refunded.
 - If assigned homework is not completed consistently, there will be no fee, but I will stop sending it.
-- I reserve the right to cancel individual lessons as needed, or stop giving lessons entirely. Full refunds will be issued.
+- I reserve the right to cancel individual lessons as needed, or stop giving lessons entirely. Full (prorated) refunds will be issued.
 </blockquote>
