@@ -45,7 +45,7 @@ For example, the taste of marzipan looks like a hook-shaped curve.
 - **General technology**
 	- 6+ inch screens on smartphones *are way too big*, and I'm not sure why making them is the meta. 
 	- Electric cars and solar energy are the future.
-	- **[AI safety](https://en.wikipedia.org/wiki/AI_control_problem)** is a problem that *should more widely discussed and considered*.
+	- **[AI safety](https://en.wikipedia.org/wiki/AI_control_problem)** is a problem that *should be more widely discussed and considered*.
 - **Food**
     - Salmon is the tastiest fish (especially raw with sushi rice), while tilapia is the most versatile.
 	- Steak is best eaten rare (or somewhere inbetween blue and rare), and dry-aged 30-60 days.
