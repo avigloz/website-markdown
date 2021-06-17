@@ -67,7 +67,7 @@ Send recommendations my way!
 I would attribute much of what I would consider "the foundation" of my musical taste to my father, whose musical library is comparable to mine in variety (and likely size).\
 Through him, I discovered rock, world music, jazz, and electronic trance music.
 
-Otherwise, I have a couple friends who contribute the remaining influence on my taste, with a variety of genres such as hip-hop, jazz, indie rock, punk rock, etc.
+Otherwise, I have a couple friends who provide the remaining influence on my taste, contributing music from a variety of genres such as hip-hop, jazz, indie rock, punk rock, etc.
 
 ## How I listen
 
