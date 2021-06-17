@@ -13,8 +13,8 @@
 
 [Home](../)
 
-Here are some "posts" I've written. They are not written for the express
-purpose of being published here, but I post them here anyway.
+Here are some "posts" and other things I've written. They are typically not written with the express
+purpose of being published here, but I may post them here anyway.
 
 I mostly write short stories, however poetry or long-form papers/essays may also appear here every so often.
 
@@ -38,15 +38,24 @@ For example, the taste of marzipan looks like a hook-shaped curve.
 
 ### Opinions
 <blockquote>
-- **Computer stuff**
-	- Mainstream Linux distributions like Ubuntu and Mint are beyond sufficient for every-day use by the majority of people.
-	- For software engineering, using Linux or MacOS offers a far superior experience in most use-cases, and allows for far more efficient workflows with less bloat.	
-	- For normal use, thumb trackball mice are a superior pointing device (although I'll always be partial to Lenovo's TrackPoint). For videogames, I still use a "regular" mouse.
-- **General tech stuff**
-	- Firefox is the best browser currently available.
-	- 6+ inch screens on phones are way too big, and I'm not sure why making them is the meta.
-- **Misc**
-	- Utz "Extra Dark" pretzels are fantastic, and grossly underrated.
-	- Orangutans, cats, and owls are cool.
-	- Potatoes are good in any form (except raw), especially in a samosa.
+- **Computers and programming**
+	- Mainstream **Linux** distributions like Ubuntu and Linux Mint are *beyond sufficient for every-day use by the majority of people*. It is a shame that there is a lack of OEM adoption.
+	- Split keyboards (such as the ErgoDox) and thumb-trackballs (such as the Logitech M570) are extremely good.
+	- **Firefox** is the best web browser currently available (on both desktop and mobile).
+- **General technology**
+	- 6+ inch screens on smartphones *are way too big*, and I'm not sure why making them is the meta. 
+	- Electric cars and solar energy are the future.
+	- **[AI safety](https://en.wikipedia.org/wiki/AI_control_problem)** is a problem that *should more widely discussed and considered*.
+- **Food**
+    - Salmon is the tastiest fish (especially raw with sushi rice), while tilapia is the most versatile.
+	- Steak is best eaten rare (or somewhere inbetween blue and rare), and dry-aged 30-60 days.
+    - Utz "Extra Dark" pretzels are fantastic, and grossly underrated.
+	- Potatoes are good in any form (except raw), *especially in a samosa or "french fried."*
+	- Mass production of animal food products, in conjuction with massive food-related waste, *will have catastrophic consequences* (i.e climate change, cross-species viruses, etc.) if not mitigated. These industries do not scale well.
+	- "Breakfast is the most important meal of the day" is propoganda. Instead, have a cup of water, coffee, and a granola bar.
+- **Uncategorized**
+    - Intermittent fasting and exercise are the most reliable methods for weight loss (especially when combined).
+	- Music and film are the *most impressive human art forms.*
+	- Minecraft is one of the best videogames ever made.
+	- **Orangutans**, cats, and owls are very cool animals.
 </blockquote>

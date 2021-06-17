@@ -17,6 +17,10 @@ echo -n "Building ./posts/index.html..."
 pandoc ./posts/index.md -o ./posts/index.html
 echo -e "${GR}done!${DE}"
 
+echo -n "Building ./posts/music.html..."
+pandoc ./posts/music.md -o ./posts/music.html
+echo -e "${GR}done!${DE}"
+
 echo -n "Building ./posts/peacefuldream.html..."
 pandoc ./posts/peacefuldream.md -o ./posts/peacefuldream.html
 echo -e "${GR}done!${DE}"

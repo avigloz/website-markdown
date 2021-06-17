@@ -17,6 +17,8 @@ I'm a <abbr title="I write code for fun, and for a living">software engineer</ab
 
 <blockquote class="mobileHide" style="border-style:none; max-width: 75%; width: 400px;">
 ₿ - 1KSyAcii5kabFE5aVfXSZ3kgeU2dCiYk4h\
+Ł - ltc1qhvtwyykjjhp0084ys93xh2g3l0cv588njvna5s\
+Ɖ - D6grMcNQQ7VCrQhraAMCaU5Mn9pEux33nK\
 [PGP](http://pgp.mit.edu/pks/lookup?op=get&search=0xCF60462F927609A8) - F61CE51C19A11E8EAEFE175ECF60462F927609A8
 </blockquote>
 
