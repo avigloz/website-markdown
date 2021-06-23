@@ -31,10 +31,15 @@ I mostly write short stories, however poetry or long-form papers/essays may also
 
 ## Random thoughts, things, ideas, and opinions
 
-<a href="./music">Music collection and thoughts on music</a>
+[Music collection and thoughts on music](./music)
+
+[Software and technology I like (and why)](./tech)
 
 I am a [synesthete](https://en.wikipedia.org/wiki/Synesthesia), which in my case means that I may interpret/visualize certain sounds and tastes as shapes or curves.\
 For example, the taste of marzipan looks like a hook-shaped curve.
+
+Here's one of my favorite mathematical theorems: [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). Here's some [monkey writing](../docs/NOTES_EN.pdf)!\
+If you're bored, here's a [library of random text](https://libraryofbabel.info/) (related to the above theorem).
 
 ### Opinions
 <blockquote>

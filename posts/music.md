@@ -15,7 +15,16 @@
 
 Here you can find information about music I like to listen to, how I listen to it, and what I think about it.
 
-While I have not yet made any music of my own, I am an audiophile and have a deep appreciation for music, rhythm, and interesting sound.
+While I have not yet made any music of my own, I am an audiophile and have a deep appreciation for music.
+
+**Contents**
+<blockquote class="contents">
+- [Music](#music)
+  - [Collection](#collection)
+    - [Influences on my musical taste](#influences-on-my-musical-taste)
+  - [How I listen](#how-i-listen)
+  - [Thoughts on music](#thoughts-on-music)
+</blockquote>
 
 ## Collection
 

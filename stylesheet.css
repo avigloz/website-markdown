@@ -7,10 +7,28 @@ body {
 a, h1, h2, h3 {
     font-family: 'IBM Plex Mono', monospace;
 }
+blockquote:not(.contents) a, body>:is(p, h1, h2, h3, h4) a {
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+    background-color: #e6edfa;
+}
+blockquote.contents a {
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+    background-color: none;
+}
 .quote {
     display: table-row;
     background-color: #fffacd;
     font-family: 'IBM Plex Mono', monospace;
+}
+.contents {
+    background-color: #d4ffd0;
+    font-family: 'IBM Plex Mono', monospace;
+    min-width: 100px;
+    max-width: 400px;
 }
 blockquote, p, li, pre {
     font-family: 'Open Sans', sans-serif;
@@ -20,12 +38,6 @@ p, li, pre, h1, h2, h3 {
 }
 p {
     display: block;
-}
-a {
-    font-weight: 500;
-    text-decoration: none;
-    color: black;
-    background-color: #e6edfa;
 }
 img {
     border-width: 1px;
