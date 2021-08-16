@@ -54,9 +54,9 @@ This page is a work-in-progress. Tune in occasionally for updates and more detai
       - Makes it so you don't move from a textbox to the "Submit" button by accident when you hit the *Tab* key (especially useful in online code editors).
     - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
       - Perhaps the most important extension I have installed.
-- Chromium (*not Google Chrome*)
+- Chromium (*not Google Chrome!*)
   - I use only uBlock with Chromium. I hardly use the browser, so I keep it lightweight.
-  - I almost exclusively use this for Instacart and Google Meet.
+  - I almost exclusively use this for Google Meet.
 </blockquote>
 
 **Notes:**
