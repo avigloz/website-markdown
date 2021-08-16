@@ -11,9 +11,9 @@
 [Posts](../posts/)
 
 I offer tutoring services to families and individual students in any North American timezone.\
-*I am now offering both online tutoring, **and** in-person tutoring for students who are fully vaccinated in Manhattan and Queens.*
+*I am now offering both online tutoring, **and** in-person tutoring for students who are fully vaccinated in Manhattan (Uptown) and Queens (west of Corona Park)*
 
-I work with at most two students in parallel per month. **_Currently BOTH slots are open!_**
+I can accomodate at most two students in parallel per month. **_Currently BOTH slots are open!_**
 
 ### Subjects and rates
 <blockquote>
