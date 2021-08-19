@@ -65,7 +65,7 @@ If you're bored, here's a [library of random text](https://libraryofbabel.info/)
 	- I don't know why people still drink non-"diet" soda. *Drinking ~40g of sugar in one serving, sometimes multiple times per day, is suicidal.*
 		- If you do this, here's my advice (**don't** take this with a grain of salt): **try your best to stop, it will save you from a plethora of health problems.**
 		- In general, carbonated drinks containing acids aren't good, so if you want a healthy alternative to soda, try flavored seltzer.
-		- Added note: *Coca-Cola and friends couldn't care less if you live or die*, and despite being made to reduce the sugar content of their drinks in other countries, they have not done this in the USA, as they just want to keep people addicted.
+		- Added note: *Coca-Cola and friends couldn't care less if you live or die*, and have even refused to lower sugar content (despite threats of increased taxation).
 - **Uncategorized**
     - Intermittent fasting and exercise are the most reliable methods for weight loss (especially when combined).
 	- Music and film are the *most impressive human art forms.*
