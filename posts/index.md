@@ -45,19 +45,27 @@ If you're bored, here's a [library of random text](https://libraryofbabel.info/)
 <blockquote>
 - **Computers and programming**
 	- Mainstream **Linux** distributions like Ubuntu and Linux Mint are *beyond sufficient for every-day use by the majority of people*. It is a shame that there is a lack of OEM adoption.
-	- Split keyboards (such as the ErgoDox) and thumb-trackballs (such as the Logitech M570) are extremely good.
 	- **Firefox** is the best web browser currently available (on both desktop and mobile).
 - **General technology**
-	- 6+ inch screens on smartphones *are way too big*, and I'm not sure why making them is the meta. 
-	- Electric cars and solar energy are the future.
+	- Split keyboards (such as the ErgoDox) and thumb-trackballs (such as the Logitech M570) are extremely good.
+	- 6+ inch screens on smartphones *are way too big*, and I'm not sure why making (or wanting) them is the meta.
+	- Cryptocurrency, as it is used by most people, is simply a hip way to gamble (*for now*).
+		- Oddly, this manner of existing has pushed it into the spotlight, and is now allowing it to grow out of that mold very fast.
+	- Electric cars, renewable energy, and biodiesel are the future (of transporation and energy).
 	- **[AI safety](https://en.wikipedia.org/wiki/AI_control_problem)** is a problem that *should be more widely discussed and considered*.
 - **Food**
-    - Salmon is the tastiest fish (especially raw with sushi rice), while tilapia is the most versatile.
-	- Steak is best eaten rare (or somewhere inbetween blue and rare), and dry-aged 30-60 days.
+    - Salmon is the tastiest fish (especially raw with sushi rice), while cod is the most versatile.
+	- Steak is best eaten **rare** (or somewhere inbetween blue and rare), dry-aged 30-60 days, as a ribeye or picanha, with chimichurri.
     - Utz "Extra Dark" pretzels are fantastic, and grossly underrated.
 	- Potatoes are good in any form (except raw), *especially in a samosa or "french fried."*
 	- Mass production of animal food products, in conjuction with massive food-related waste, *will have catastrophic consequences* (i.e climate change, cross-species viruses, etc.) if not mitigated. These industries do not scale well.
-	- "Breakfast is the most important meal of the day" is propoganda. Instead, have a cup of water, coffee, and a granola bar.
+	- The concepts of "3 meals a day" and "breakfast is most important" are social constructs. Eat when you're hungry, not when you "should."
+		- Some people eat [once a day](https://www.youtube.com/watch?v=w_SNIwW6iX8)!
+	- Nobody should eat modern cereals. They're too refined, processed, and morbidly sweet.
+	- I don't know why people still drink non-"diet" soda. *Drinking ~40g of sugar in one serving, sometimes multiple times per day, is suicidal.*
+		- If you do this, here's my advice (**don't** take this with a grain of salt): **try your best to stop, it will save you from a plethora of health problems.**
+		- In general, carbonated drinks containing acids aren't good, so if you want a healthy alternative to soda, try flavored seltzer.
+		- Added note: *Coca-Cola and friends couldn't care less if you live or die*, and despite being made to reduce the sugar content of their drinks in other countries, they have not done this in the USA, as they just want to keep people addicted.
 - **Uncategorized**
     - Intermittent fasting and exercise are the most reliable methods for weight loss (especially when combined).
 	- Music and film are the *most impressive human art forms.*
