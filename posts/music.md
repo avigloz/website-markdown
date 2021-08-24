@@ -1,10 +1,14 @@
-<title>Music</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
-<link href="../stylesheet.css" rel="stylesheet"/>
-<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
-
+<head>
+	<title>Music</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
+	<link href="../stylesheet.css" rel="stylesheet"/>
+	<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+	<svg style="display:none">
+	<defs> <g id="external-link" stroke-width="1.5" stroke="#000" fill="none" stroke-linecap="round" stroke-linejoin="round"> <polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline> <path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path> </g> </defs>
+	</svg>
+</head>
 # Music
 
 <blockquote class="quote">
@@ -58,7 +62,7 @@ Some recent discoveries (within the last 2 years) I've been listening to quite a
 
 I have a playlist on Spotify which has around 1600 songs (amounting to ~120 hours of music).
 It contains pretty much all the music I've listened to and liked enough to add to my collection in the last 7+ years.\
-For an insight on how my musical tastes, knowledge, and interests have changed over time, feel free to [check it out](https://open.spotify.com/playlist/1EQw7BQ7GDoqYc9AJumTjB?si=ae8b671a8834428d).
+For an insight on how my musical tastes, knowledge, and interests have changed over time, feel free to [check it out<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://open.spotify.com/playlist/1EQw7BQ7GDoqYc9AJumTjB?si=ae8b671a8834428d).
 
 My collection, for the past 1-2 years, has been accumulating predominately the following genres:
 
@@ -94,7 +98,7 @@ With it, I use a simple passive switch for picking which set of headphones will 
 
 Music is incredibly important to me. Here, I will use a somewhat cliche Nietzche quote: "Without music, life would be a mistake."
 
-For example, I find music incredibly instrumental (pun intended) in achieving [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)).\
+For example, I find music incredibly instrumental (pun intended) in achieving [flow state<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://en.wikipedia.org/wiki/Flow_(psychology)).\
 The following elements of a track are especially important when using music for this purpose:
 
 <blockquote>

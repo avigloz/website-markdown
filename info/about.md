@@ -1,9 +1,15 @@
-<title> About Avi </title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
-<link href="../stylesheet.css" rel="stylesheet"/>
-<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+
+<head>
+	<title> About Avi </title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
+	<link href="../stylesheet.css" rel="stylesheet"/>
+	<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+	<svg style="display:none">
+	<defs> <g id="external-link" stroke-width="1.5" stroke="#000" fill="none" stroke-linecap="round" stroke-linejoin="round"> <polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline> <path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path> </g> </defs>
+	</svg>
+</head>
 
 # About me
 
@@ -29,7 +35,7 @@ Here's some tid-bits about me:
 </blockquote>
 ## Goals and plans
 
-Currently, **I'm working as a Backend Engineer for a startup called [Hooked, Inc.](https://hookedstream.com)**
+Currently, **I'm working as a Backend Engineer for a startup called [Hooked, Inc.<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://hookedstream.com)**
 
 My personal goals (achievable within the next 5 years) are as follows:
 
@@ -42,7 +48,7 @@ My personal goals (achievable within the next 5 years) are as follows:
 
 ## Projects
 
-Most of my meaningful work is stored publically on [my GitHub](https://github.com/avigloz). Browse to your heart's content! Of course, I have private repositories, too! ;)
+Most of my meaningful work is stored publically on [my GitHub<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://github.com/avigloz). Browse to your heart's content! Of course, I have private repositories, too! ;)
 
 ## Contact
 

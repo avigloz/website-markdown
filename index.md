@@ -5,6 +5,15 @@
 	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
 	<link href="stylesheet.css" type="text/css" rel="stylesheet"/>
 	<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+
+	<svg style="display:none">
+		<defs>
+			<g id="external-link" stroke-width="1.5" stroke="#000" fill="none" stroke-linecap="round" stroke-linejoin="round">
+				<polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline>
+				<path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path>
+			</g>
+		</defs>
+	</svg>
 </head>
 
 # Avi Glozman
@@ -19,7 +28,7 @@ I'm a <abbr title="I write code for fun, and for a living">software engineer</ab
 ₿ - 1KSyAcii5kabFE5aVfXSZ3kgeU2dCiYk4h\
 Ł - ltc1qhvtwyykjjhp0084ys93xh2g3l0cv588njvna5s\
 Ɖ - D6grMcNQQ7VCrQhraAMCaU5Mn9pEux33nK\
-[PGP](http://pgp.mit.edu/pks/lookup?op=get&search=0xCF60462F927609A8) - F61CE51C19A11E8EAEFE175ECF60462F927609A8
+[PGP<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"/></svg>](http://pgp.mit.edu/pks/lookup?op=get&search=0xCF60462F927609A8) - F61CE51C19A11E8EAEFE175ECF60462F927609A8
 </blockquote>
 
 <hr align="left" width="35%">
@@ -28,11 +37,15 @@ I'm a <abbr title="I write code for fun, and for a living">software engineer</ab
 
 ### [Résumé](docs/avi_resume03_21.pdf)
 
-### [GitHub](https://github.com/avigloz)
+### [GitHub<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"/></svg>](https://github.com/avigloz)
 
 ### [Posts](posts/)
 
 ### [Tutoring](tutoring/)
+
+
+<external-link></external-link>
+
 <br></br>
 <p style="position: absolute; bottom:20;">Dark mode compatible ☽</p>
 <abbr style="position: absolute; bottom:15;" title="For licenses and attribution, see https://git.io/JOJv3">(C) Avi Glozman, 2021</abbr>

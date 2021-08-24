@@ -1,9 +1,14 @@
-<title>Posts</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
-<link href="../stylesheet.css" rel="stylesheet"/>
-<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+<head>
+	<title>Posts</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
+	<link href="../stylesheet.css" rel="stylesheet"/>
+	<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+	<svg style="display:none">
+	<defs> <g id="external-link" stroke-width="1.5" stroke="#000" fill="none" stroke-linecap="round" stroke-linejoin="round"> <polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline> <path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path> </g> </defs>
+	</svg>
+</head>
 
 # Posts
 
@@ -21,8 +26,8 @@ I mostly write short stories, however poetry or long-form papers/essays may also
 ## Short stories
 
 <blockquote>
- - ***["A Peaceful Dream"](peacefuldream.html)*** - 12/08/18
- - ***["Vastest Ocean"](vastestocean.html)*** - 03/25/19
+ - ***["A Peaceful Dream"](./peacefuldream)*** - 12/08/18
+ - ***["Vastest Ocean"](./vastestocean)*** - 03/25/19
 </blockquote>
 
 ## Poetry
@@ -35,11 +40,11 @@ I mostly write short stories, however poetry or long-form papers/essays may also
 
 [Software and technology I like (and why)](./tech)
 
-I am a [synesthete](https://en.wikipedia.org/wiki/Synesthesia), which in my case means that I may interpret/visualize certain sounds and tastes as shapes or curves.\
+I am a [synesthete<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://en.wikipedia.org/wiki/Synesthesia), which in my case means that I may interpret/visualize certain sounds and tastes as shapes or curves.\
 For example, the taste of marzipan looks like a hook-shaped curve.
 
-Here's one of my favorite mathematical theorems: [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). Here's some [monkey writing](../docs/NOTES_EN.pdf)!\
-If you're bored, here's a [library of random text](https://libraryofbabel.info/) (related to the above theorem).
+Here's one of my favorite mathematical theorems: [Infinite monkey theorem<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). Here's some [monkey writing](../docs/NOTES_EN.pdf)!\
+If you're bored, here's a [library of random text<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://libraryofbabel.info/) (related to the above theorem).
 
 ### Opinions
 <blockquote>
@@ -52,7 +57,7 @@ If you're bored, here's a [library of random text](https://libraryofbabel.info/)
 	- Cryptocurrency, as it is used by most people, is simply a hip way to gamble (*for now*).
 		- Oddly, this manner of existing has pushed it into the spotlight, and is now allowing it to grow out of that mold very fast.
 	- Electric cars, renewable energy, and biodiesel are the future (of transporation and energy).
-	- **[AI safety](https://en.wikipedia.org/wiki/AI_control_problem)** is a problem that *should be more widely discussed and considered*.
+	- **[AI safety<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://en.wikipedia.org/wiki/AI_control_problem)** is a problem that *should be more widely discussed and considered*.
 - **Food**
     - Salmon is the tastiest fish (especially raw with sushi rice), while cod is the most versatile.
 	- Steak is best eaten **rare** (or somewhere inbetween blue and rare), dry-aged 30-60 days, as a ribeye or picanha, with chimichurri.
@@ -60,7 +65,7 @@ If you're bored, here's a [library of random text](https://libraryofbabel.info/)
 	- Potatoes are good in any form (except raw), *especially in a samosa or "french fried."*
 	- Mass production of animal food products, in conjuction with massive food-related waste, *will have catastrophic consequences* (i.e climate change, cross-species viruses, etc.) if not mitigated. These industries do not scale well.
 	- The concepts of "3 meals a day" and "breakfast is most important" are social constructs. Eat when you're hungry, not when you "should."
-		- Some people eat [once a day](https://www.youtube.com/watch?v=w_SNIwW6iX8)!
+		- Some people eat [once a day<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://www.youtube.com/watch?v=w_SNIwW6iX8)!
 	- Nobody should eat modern cereals. They're too refined, processed, and morbidly sweet.
 	- I don't know why people still drink non-"diet" soda. *Drinking ~40g of sugar in one serving, sometimes multiple times per day, is suicidal.*
 		- If you do this, here's my advice (**don't** take this with a grain of salt): **try your best to stop, it will save you from a plethora of health problems.**

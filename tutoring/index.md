@@ -1,9 +1,11 @@
-<title>Tutoring</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
-<link href="../stylesheet.css" type="text/css" rel="stylesheet"/>
-<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+<head>
+	<title>Tutoring</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
+	<link href="../stylesheet.css" type="text/css" rel="stylesheet"/>
+	<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
+</head>
 
 # Tutoring
 [Home](../)
