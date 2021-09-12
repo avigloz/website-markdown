@@ -66,7 +66,6 @@ If you're bored, here's a [library of random text<svg width="14px" height="14px"
 	- Mass production of animal food products, in conjuction with massive food-related waste, *will have catastrophic consequences* (i.e climate change, cross-species viruses, etc.) if not mitigated. These industries do not scale well.
 	- The concepts of "3 meals a day" and "breakfast is most important" are social constructs. Eat whenever is right for you, and as much as is healthy for you.
 		- Some people eat [once a day<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://www.youtube.com/watch?v=w_SNIwW6iX8)!
-	- Nobody should eat (most) modern cereals. They're too refined, processed, and morbidly sweet.
 - **Uncategorized**
     - Intermittent fasting and exercise are the most reliable methods for weight loss (especially when combined).
 	- Music and film are the *most impressive human art forms.*
