@@ -64,13 +64,9 @@ If you're bored, here's a [library of random text<svg width="14px" height="14px"
     - Utz "Extra Dark" pretzels are fantastic, and grossly underrated.
 	- Potatoes are good in any form (except raw), *especially in a samosa or "french fried."*
 	- Mass production of animal food products, in conjuction with massive food-related waste, *will have catastrophic consequences* (i.e climate change, cross-species viruses, etc.) if not mitigated. These industries do not scale well.
-	- The concepts of "3 meals a day" and "breakfast is most important" are social constructs. Eat when you're hungry, not when you "should."
+	- The concepts of "3 meals a day" and "breakfast is most important" are social constructs. Eat whenever is right for you, and as much as is healthy for you.
 		- Some people eat [once a day<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://www.youtube.com/watch?v=w_SNIwW6iX8)!
-	- Nobody should eat modern cereals. They're too refined, processed, and morbidly sweet.
-	- I don't know why people still drink non-"diet" soda. *Drinking ~40g of sugar in one serving, sometimes multiple times per day, is suicidal.*
-		- If you do this, here's my advice (**don't** take this with a grain of salt): **try your best to stop, it will save you from a plethora of health problems.**
-		- In general, carbonated drinks containing acids aren't good, so if you want a healthy alternative to soda, try flavored seltzer.
-		- Added note: *Coca-Cola and friends couldn't care less if you live or die*, and have even refused to lower sugar content (despite threats of increased taxation).
+	- Nobody should eat (most) modern cereals. They're too refined, processed, and morbidly sweet.
 - **Uncategorized**
     - Intermittent fasting and exercise are the most reliable methods for weight loss (especially when combined).
 	- Music and film are the *most impressive human art forms.*
