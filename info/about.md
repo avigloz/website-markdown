@@ -26,7 +26,7 @@ As you may already know, my name is Avi! Here I am:
 Here's some tid-bits about me:
 
 <blockquote>
-- As of 2021, I am 21 years old.
+- As of 2021, I am 21 years old. Calculating my age is quite easy!
 - I graduated from the University of Pittsburgh in December 2020 (Bachelor of Science, Computer Science), 2.33 years after graduating from high school.
 - I am an immigrant, originally from Israel.
 - I speak English and Russian fluently, and have varying mastery of other languages (Hebrew, Spanish, etc).
@@ -42,8 +42,7 @@ My personal goals (achievable within the next 5 years) are as follows:
 1. Learn about business, and establish a local non-profit for laptop re-use and repurposing.
 	- Newer versions of Windows are too much for older (or lower-spec) machines. Linux is a great way to bring these laptops back to life.
 	- I'd like to empower people who do not have the resources to use on laptops for work or school, by offering a free laptop for anyone who needs it.
-2. Repay my student loans (~$110,000!), which I will very likely fully refinance and repay by June 2024 (at the absolute latest).
-	- If you're curious as to how I am approaching this, I'd be happy to offer insight.
+2. Start a blog and maybe even a YouTube channel, and start publishing there.
 3. Invest in real estate, travel, start my own online business, etc.
 
 ## Projects
