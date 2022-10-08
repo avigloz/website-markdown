@@ -19,8 +19,8 @@ I can accomodate at most two students in parallel per month. **_Currently BOTH s
 
 ### Subjects and rates
 <blockquote>
-- **Computer Science/Programming** - **$55/hr (65 minutes)**
-  - **Topics such as:** *general programming, algorithms, Linux, web services, JavaScript, networking, databases/architecture, or anything else you see on my résumé.*
+- **Computer Science/Programming** - **$60/hr (65 minutes)**
+  - **Topics such as:** *general programming, functional programming, algorithms, Linux, web services, JavaScript, networking, databases/architecture, or anything else you see on my résumé.*
   - **Qualification**: I am an experienced, full-time software engineer specializing in backend engineering at a fast-growing startup.
 - I have previously tutored subjects such as reading/writing, and math, however am no longer offering these subjects. Sorry about that!
 </blockquote>
