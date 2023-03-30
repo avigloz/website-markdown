@@ -8,8 +8,8 @@
 README.md
 
 # Upload script
-upload.sh
+upload.*
 
 old/
-
+.DS_Store
 

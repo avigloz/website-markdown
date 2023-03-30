@@ -34,7 +34,7 @@ Here's some tid-bits about me:
 </blockquote>
 ## Goals and plans
 
-Currently, **I'm working as a Backend Engineer for a company called [Mercury.<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://mercury.com)**
+Currently, **I'm working as a Backend Engineer for a company called [Mercury<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://mercury.com)**.
 
 ## Projects
 

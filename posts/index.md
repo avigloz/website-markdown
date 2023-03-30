@@ -38,8 +38,6 @@ I mostly write short stories, however poetry or long-form papers/essays may also
 
 [Music collection and thoughts on music](./music)
 
-[Software and technology I like (and why)](./tech)
-
 I am a [synesthete<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://en.wikipedia.org/wiki/Synesthesia), which in my case means that I may interpret/visualize certain sounds and tastes as shapes or curves.\
 For example, the taste of marzipan looks like a hook-shaped curve.
 
