@@ -26,7 +26,7 @@ As you may already know, my name is Avi! Here I am:
 Here's some tid-bits about me:
 
 <blockquote>
-- As of 2021, I am 21 years old. Calculating my age is quite easy!
+- As of 2023, I am 23 years old. Calculating my age is quite easy!
 - I graduated from the University of Pittsburgh in December 2020 (Bachelor of Science, Computer Science), 2.33 years after graduating from high school.
 - I speak English and Russian fluently, and have varying mastery of other languages (Hebrew, Spanish, etc).
 - I enjoy writing, and regularly write poetry or short stories (typically unshared, though there are some [here](../posts/index.html)).
@@ -35,6 +35,9 @@ Here's some tid-bits about me:
 ## Goals and plans
 
 Currently, **I'm working as a Backend Engineer for a company called [Mercury<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://mercury.com)**.
+
+I'm also hoping to become a published (self-published or otherwise) writer by the end of
+2024. I am slowly gradually a collection of poetry to this end.
 
 ## Projects
 
