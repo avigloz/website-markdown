@@ -35,9 +35,11 @@ I'm a <abbr title="I write code for fun, and for a living">software engineer</ab
 
 ### [About](info/about)
 
-### [Résumé](docs/avi_resume09_21.pdf)
+### [Résumé](docs/avi_resume06_23.pdf)
 
 ### [GitHub<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"/></svg>](https://github.com/avigloz)
+
+### [Substack<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"/></svg>](https://avigloz.substack.com/)
 
 ### [Posts](posts/)
 

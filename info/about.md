@@ -37,9 +37,13 @@ Here's some tid-bits about me:
 Currently, **I'm working as a Backend Engineer for a company called [Mercury<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://mercury.com)**.
 
 I'm also hoping to become a published (self-published or otherwise) writer by the end of
-2024. I am slowly gradually a collection of poetry to this end.
+2024. I am slowly building a collection of poetry to this end.
 
 ## Projects
+
+Over the course of my teenage years and, later, my career, I've published numerous projects including browser extensions, tools for crypto mining, Minecraft server plugins, utilities, and more. 
+
+In 2022, I released an NPM package called [**ahura**<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://www.npmjs.com/package/ahura), for managing package imports in Node.js.
 
 Most of my meaningful work is stored publically on [my GitHub<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"></use></svg>](https://github.com/avigloz). Browse to your heart's content! Of course, I have private repositories, too! ;)
 
