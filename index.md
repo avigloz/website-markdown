@@ -24,10 +24,7 @@
 
 I'm a <abbr title="I write code for fun, and for a living">software engineer</abbr>, <abbr title="See my Tutoring page for more info">private tutor</abbr>, and <abbr title="I sometimes write poetry and short stories">hobbyist writer</abbr>.
 
-<blockquote class="mobileHide" style="border-style:none; max-width: 75%; width: 400px;">
-₿ - 1KSyAcii5kabFE5aVfXSZ3kgeU2dCiYk4h\
-Ł - ltc1qhvtwyykjjhp0084ys93xh2g3l0cv588njvna5s\
-Ɖ - D6grMcNQQ7VCrQhraAMCaU5Mn9pEux33nK\
+<blockquote style="border-style:none; max-width: 75%; width: 400px;">
 [PGP<svg width="14px" height="14px" viewBox="0 -5 25 25"><use href="#external-link"/></svg>](http://pgp.mit.edu/pks/lookup?op=get&search=0xCF60462F927609A8) - F61CE51C19A11E8EAEFE175ECF60462F927609A8
 </blockquote>
 
@@ -50,4 +47,4 @@ I'm a <abbr title="I write code for fun, and for a living">software engineer</ab
 
 <br></br>
 <p style="position: absolute; bottom:20;">Dark mode compatible ☽</p>
-<abbr style="position: absolute; bottom:15;" title="For licenses and attribution, see https://git.io/JOJv3">(C) Avi Glozman, 2021</abbr>
+<abbr style="position: absolute; bottom:15;" title="For licenses and attribution, see https://git.io/JOJv3">(C) Avi Glozman, 2023</abbr>
