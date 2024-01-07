@@ -1,4 +1,3 @@
-
 <head>
 	<title> About Avi </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
@@ -21,7 +20,7 @@
 
 As you may already know, my name is Avi! Here I am:
 
-<img src="../images/avi_photo_summer2020.png" alt="A photograph of Avi Glozman from 2020" height="375px" width="375px"/>
+<img src="../images/avi_september2023.jpeg" alt="A photograph of Avi from 2023"/>
 
 Here's some tid-bits about me:
 
@@ -52,15 +51,7 @@ Most of my meaningful work is stored publically on [my GitHub<svg width="14px" h
 Here's my email address:
 *avi [/\\t] avigloz [d0t] net*
 
-**Do:** reach out for anything personal or business-related, but <br>
-**don't:** try to sell me anything (at all - I'll mark you as spam).
-
-If you reach via any other email address that you think might be mine, I won't see it.
-
 If you're interesting in **tutoring services**, look [here](../tutoring/).
 
 As I may reply to emails from my phone, I cannot reliably/consistently encrypt communication via email.\
 For sensitive matters, please use the phone number on my résumé and contact me via Signal.
-
-My PGP fingerprint is provided on the home page of this site (on the desktop version).\
-Please use that for verifying authenticity if you feel that something may be amiss.
