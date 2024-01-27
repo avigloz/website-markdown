@@ -4,7 +4,8 @@ body {
     font-size: 15px;
     margin-right: 0px;
 }
-a, h1, h2, h3 {
+
+a, h1, h2, h3, summary {
     font-family: 'IBM Plex Mono', monospace;
 }
 blockquote:not(.contents) a, body>:is(p, h1, h2, h3, h4) a {
@@ -30,11 +31,15 @@ blockquote.contents a {
     min-width: 100px;
     max-width: 400px;
 }
-blockquote, p, li, pre {
+blockquote, p, li, pre, details > p, details > details > p {
     font-family: 'Open Sans', sans-serif;
+}
+td > * {
+    font-size: 15px;
 }
 p, li, pre, h1, h2, h3 {
     padding: 0px;
+    white-space: normal;
 }
 p {
     display: block;
@@ -58,8 +63,15 @@ blockquote {
     margin-left: 0px;
 }
 
-@media only screen and (max-width: 750px) {
-  .mobileHide {
-    display: none;
-  }
+details > p, details > details, details > details > summary, details > details > p, details > img {
+    margin-left: 15px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: none;
+    padding: 8px; 
 }
