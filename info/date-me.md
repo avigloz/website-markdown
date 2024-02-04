@@ -2,6 +2,7 @@
 	<title> Avi's "Date Me Doc" </title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta name="robots" content="noindex">
 	<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans" rel="stylesheet"/>
 	<link href="../stylesheet.css" rel="stylesheet"/>
 	<link rel="shortcut icon" type="image/png" href="/images/favicon.png"/>
@@ -262,4 +263,5 @@ While my phone number *is* fairly easy to find, I'd prefer to chat over email (i
 </details>
 </div>
 
-<small>last updated: 1/26/2024</small>
+<small>last updated: 1/26/2024</small><br>
+<img src="https://www.cutercounter.com/hits.php?id=hmxpxxfx&nd=4&style=1" border="0" alt="visitor counter">
